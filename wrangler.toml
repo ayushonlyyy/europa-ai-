@@ -1,4 +1,0 @@
-name = "europa-ai"
-main = "chat_worker.js"
-compatibility_date = "2026-05-20"
-# v2
